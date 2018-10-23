@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 32px;
+  background-color: #C0C0C0;
+}
+
+body .page-container {
+  width: 1200px;
+  padding: 20px 32px;
+  margin: 0 auto;
+}
